@@ -1,6 +1,6 @@
 # TWICDBAggregator
 
-This tool allows you to download all the TWIC issues at once between 2 dates and gather them in a big PGN file.
+This tool allows you to download all the TWIC (https://theweekinchess.com/) issues at once between 2 dates and gather them in a big PGN file.
 
 The credits should go to the authors who published the original version in google code.
 https://code.google.com/archive/p/twic-db-aggregator/downloads
