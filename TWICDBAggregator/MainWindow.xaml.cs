@@ -170,6 +170,7 @@ namespace TWICDBAggregator
 
 
             WebClient webclient = new WebClient();
+            webclient.Headers.Add("User-Agent: Other");
             string path = Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData);
             path += "\\TWICDBAggregator\\";
 
