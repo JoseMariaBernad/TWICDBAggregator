@@ -1,0 +1,13 @@
+C:\Users\Ross\Desktop\TWICDBAggregator\TWICDBAggregator\obj\x86\Release\MainWindow.baml
+C:\Users\Ross\Desktop\TWICDBAggregator\TWICDBAggregator\obj\x86\Release\MainWindow.g.cs
+C:\Users\Ross\Desktop\TWICDBAggregator\TWICDBAggregator\obj\x86\Release\App.g.cs
+C:\Users\Ross\Desktop\TWICDBAggregator\TWICDBAggregator\obj\x86\Release\TWICDBAggregator_MarkupCompile.cache
+C:\Users\Ross\Desktop\TWICDBAggregator\TWICDBAggregator\obj\x86\Release\TWICDBAggregator.g.resources
+C:\Users\Ross\Desktop\TWICDBAggregator\TWICDBAggregator\obj\x86\Release\TWICDBAggregator.Properties.Resources.resources
+C:\Users\Ross\Desktop\TWICDBAggregator\TWICDBAggregator\obj\x86\Release\TWICDBAggregator.csproj.GenerateResource.Cache
+C:\Users\Ross\Desktop\TWICDBAggregator\TWICDBAggregator\bin\Release\TWICDBAggregator.exe
+C:\Users\Ross\Desktop\TWICDBAggregator\TWICDBAggregator\bin\Release\TWICDBAggregator.pdb
+C:\Users\Ross\Desktop\TWICDBAggregator\TWICDBAggregator\bin\Release\Ionic.Zip.dll
+C:\Users\Ross\Desktop\TWICDBAggregator\TWICDBAggregator\obj\x86\Release\TWICDBAggregator.csprojResolveAssemblyReference.cache
+C:\Users\Ross\Desktop\TWICDBAggregator\TWICDBAggregator\obj\x86\Release\TWICDBAggregator.exe
+C:\Users\Ross\Desktop\TWICDBAggregator\TWICDBAggregator\obj\x86\Release\TWICDBAggregator.pdb
