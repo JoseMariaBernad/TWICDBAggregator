@@ -168,7 +168,8 @@ namespace TWICDBAggregator
                 second = GetPGNFromDate((DateTime)calendarEnd.SelectedDate);
             }));
 
-
+            ServicePointManager.Expect100Continue = true;
+            ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12;
             WebClient webclient = new WebClient();
             webclient.Headers.Add("User-Agent: Other");
             string path = Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData);
@@ -216,7 +217,7 @@ namespace TWICDBAggregator
               
                 string pgnFilename = "twic" + i.ToString() + ".pgn";
                 string zipFilename = "twic" + i.ToString() + "g.zip";
-                string url = "http://www.theweekinchess.com/zips/" + zipFilename;
+                string url = "https://www.theweekinchess.com/zips/" + zipFilename;
 
                 Log("Downloading " + url);
                 try
