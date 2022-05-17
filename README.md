@@ -9,3 +9,6 @@ I just fixed the code to support HTTPS and republished in GitHub.
 
 You can download the program in this page:
 https://github.com/JoseMariaBernad/TWICDBAggregator/releases/tag/1.0.0.0
+
+I accept donations here:
+https://www.paypal.com/donate/?business=U5G46LCPFRX2E&no_recurring=0&currency_code=EUR
